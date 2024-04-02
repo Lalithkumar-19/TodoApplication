@@ -57,5 +57,11 @@
         .taskItem{
             width: 96%;
         }
+         .empty_todos{
+            font-size: 22px;
+            color:red;
+            text-align: center;
+            width: 90%;
+        }
     }
 }
