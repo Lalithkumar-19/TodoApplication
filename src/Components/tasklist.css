@@ -49,3 +49,13 @@
     width: 550px;
 }
 }
+
+media(width<=525px){
+    .tasklist{
+        width: 90%;
+
+        .taskItem{
+            width: 96%;
+        }
+    }
+}
