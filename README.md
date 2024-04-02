@@ -1,17 +1,17 @@
-React To-Do Application
+# React To-Do Application
 
 This is a simple To-Do application built using ReactJS, showcasing basic understanding of HTML, CSS, JavaScript, React components, hooks, and state management using Redux.
 
-Features:
+# Features:
 
 - Add tasks
 - View tasks
 - Delete tasks
 
 
-Getting Started:
+# Getting Started:
 
-Prerequisites:
+# Prerequisites:
 
 Make sure you have Node.js and npm (or yarn) installed on your machine.
 
@@ -28,42 +28,36 @@ cd react-todo-app
 3. Install dependencies:
 
 npm install
-# or
-yarn install
 
-Development
+
+
+# Development:
 
 To start the development server, run:
 
 npm run dev
-# or
-yarn dev
 
-This will start the development server at http://localhost:3000.
 
-Production Build
+# Production Build
 
 To build the application for production, run:
 
 npm run build
-# or
-yarn build
 
-Running Tests
+
+# Running Tests
 
 To run tests, execute:
 
 npm test
-# or
-yarn test
 
-Usage
+# Usage
 
 - To add a new task, click on the "Add Task" button and enter the task details in the input field.
 - To view existing tasks, they will be displayed in a list format.
 - To delete a task, click on the delete icon next to the task.
 
-Technologies Used:
+# Technologies Used:
 
 - ReactJS
 - Redux
@@ -72,7 +66,7 @@ Technologies Used:
 - JavaScript
 
 
-Contributing:
+# Contributing:
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
