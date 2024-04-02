@@ -11,3 +11,8 @@
     margin-bottom: 30px;
     
 }
+@media(width<=525px){
+    .taskinput{
+        width: 90%;
+    }
+}
